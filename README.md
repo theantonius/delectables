@@ -8,8 +8,8 @@
 
 ## FAQs
 
-### What is Delectables by Foodmasku?
-- A growing collection of food masked people - all photos are high resolution and generated on the blockchain with verified randomness.
+### What are Delectables by Foodmasku?
+- A growing collection of food masked people minted on the blockchain - all photos are high resolution and generated with verified randomness.
 
 ### How many will be generated?
 - Between 2000 to 8000 maximum Delectables could exist. 
@@ -18,7 +18,7 @@
 - Each proceeding season will have 2000 more Delectables, up to 8,000 total for the collection within a one-year timeframe.
 
 ### What happens if Delectables do not sell out within the timeframe?
-- The unminted delectables will be burned and production for the next season will cease.
+- The unminted delectables will be burned and production for the following seasons will cease.
 
 ### Who is foodmasku?
 - @foodmasku is a multimedia artist based in New York City. He is a former Fulbright U.S. Scholar in Indonesia. He created the Instagram account @foodmasku — face masks made from meals eaten during COVID-19 self-isolation — after seeing a fellow artist wear a pickle face filter during a zoom meeting. In response, he placed kale on his face and started posting a food face-mask selfie daily. The project was selected by The New York Times as one of "five art accounts to follow on Instagram now." He has been a top-trending artist in KnownOrigin since the debut of his exclusive series, the Hundred Day Mask Challenge. He is also in the KnownOrigin Hall of Fame
@@ -39,6 +39,9 @@ Press:
 ### How do I get it?
 - We will open the minting page soon.
 - Secondary sales of Delectables by foodmasku will be through OpenSea.
+
+### Is there a pre-sale?
+- Yes! Collectors foodmasku are eligible for a pre-sale.
 
 ```markdown
 Roadmap
