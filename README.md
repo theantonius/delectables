@@ -48,9 +48,12 @@ Press:
 Roadmap
 
 # 33%
-- Rent a meetup space in NYC during NFT NYC week. This will be broadcast live as well.
+- Rent a meetup space in NYC during NFT NYC week.
+- Live broadcasts during the event.
 # 66%
-- A very friendsgiving dinner planned for November 21 - only Delectable owners will be able to attend live and online.
+- A very friendsgiving dinner
+- Planned for the week of November 21
+- Delectable owners can attend live and online.
 # 100%
 - Work begins on Season 2!
 
