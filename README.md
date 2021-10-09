@@ -1,3 +1,4 @@
+# Delectables by foodmasku
 ### Details
 - Pre-Sale Date: October 20, 2021 (for 24 hours)
 - Mint window: October 21, 2021 until November 21, 2021 or sell out (whichever comes first).
