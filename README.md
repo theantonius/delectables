@@ -25,9 +25,9 @@
 
 Press:
 
-- NY Times
-- CBC
-- BBC Northwest
+- [NY Times](https://www.nytimes.com/2020/09/16/arts/design/instagram-art-accounts.html)
+- [CBC](https://www.cbc.ca/radio/asithappens/as-it-happens-the-friday-edition-1.5828644/why-this-n-y-artist-is-spending-the-pandemic-turning-his-meals-into-face-masks-1.5829046)
+- [BBC Northwest](https://twitter.com/awaygray/status/1444397835881963522?s=20)
 
 ### What do I get for collecting a Delectables by foodmasku?
 - A collectible NFT from a top trending artist.
