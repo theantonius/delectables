@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  text-align: center;
+  background-image: url("assets/imgs/discordheader.png");
+}
+
 footer {
   display: none !important;
 }
