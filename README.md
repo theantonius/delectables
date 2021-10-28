@@ -1,7 +1,10 @@
 # Discord.art
-## Discord.Art is a community space for artists, collectors, and crypto enthusiasts to learn about, discuss, and share NFT resources!
+Discord.Art is a community space for artists, collectors, and crypto enthusiasts to learn about, discuss, and share NFT resources!
+## What is Discord.art?
+Discord.Art emerged from Taylor.WTF’s original "Diskord" server and collected together different artists and creator communities. It has continued to grow since its inception in June 2021, highlighting artists, collectors, and NFT enthusiasts while also providing a space for their communities! Together, we can interact in three types of spaces here: public, reaction-based, and NFT gated spaces.
+## How do I access the discord?
 
-
+!(image)[https://i.imgur.com/sBiQxL0.gif]
 
 ## Upcoming Drop:
 ## Delectables by foodmasku
