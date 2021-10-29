@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  text-align: left;
-  background-image: url(assets/imgs/discordheader.png) repeat 0 0;
+  text-align: center;
+  background-color: #ee3780;
+  background-image: linear-gradient(120deg,#ee3780,#000426);
 }
 
 footer {
