@@ -1,25 +1,36 @@
 ## Delectables by Foodmasku
-### Details
+### Details for Season 1
 - Mint date: November 9, 2021 (sold out in less than 3 days!)
 - Amount: 2000 individual and unique ERC-721 NFTs for Season 1.
 - Season 2 coming soon; Winter is cooking!
 
+### Links
+- [OpenSea Collection](https://opensea.io/collection/delectables-by-foodmasku)
+- [Smart Contract](https://etherscan.io/address/0x3d0f31395b0238093a37663c22ac98aa4ac71f0b)
+
 ## FAQs
 
 ### What are Delectables by Foodmasku?
-- A growing collection of food masked people minted on the blockchain - all photos are high resolution and generated with verified randomness.
+- A growing collection of generative food masks minted on the blockchain - all photos are high resolution and generated with verified randomness.
 
 ### How many will be generated?
-- There are 2000 Delectables by foodmasku available for every season. There are four planned seasons.
+- There are 2000 Delectables by Foodmasku available for every season. There are four planned seasons.
 - Because foodmasku makes meals into masks and then eats them, the ingredients also depend on what's in season.
 - If Season 1 sells out, work will begin on Season 2. If Season 2 sells out, work will begin on Season 3, and so on for Season 4. 
 - Each proceeding season will have 2000 more Delectables, up to 8,000 total for the collection within a one-year timeframe.
 
 ### Who is foodmasku?
-- @foodmasku is a multimedia artist based in New York City. He is a former Fulbright U.S. Scholar in Indonesia. He created the Instagram account @foodmasku — face masks made from meals eaten during COVID-19 self-isolation — after seeing a fellow artist wear a pickle face filter during a zoom meeting. In response, he placed kale on his face and started posting a food face-mask selfie daily. The project was selected by The New York Times as one of "five art accounts to follow on Instagram now." He has been a top-trending artist in KnownOrigin since the debut of his exclusive series, the Hundred Day Mask Challenge. He is also in the KnownOrigin Hall of Fame
+- Foodmasku is a multimedia artist based in New York City. He is a former Fulbright U.S. Scholar in Indonesia. He created the Instagram account [@foodmasku](https://www.instagram.com/foodmasku) — face masks made from meals eaten during COVID-19 self-isolation — after seeing a fellow artist wear a pickle face filter during a zoom meeting. In response, he placed kale on his face and started posting a food face-mask selfie daily. The project was selected by The New York Times as one of "five art accounts to follow on Instagram now." He has been a top-trending artist in KnownOrigin since the debut of his exclusive series, the Hundred Day Mask Challenge. He is also in the KnownOrigin Hall of Fame
 
-Press:
+### Who are the other team members?
+- [farah manley](https://twitter.com/farahmanley)
+- [tonsoccr](https://twitter.com/tonsoccr)
+- [Jacob Dehart](https://twitter.com/jacobdehart)
+- [Mike Mitchell](https://twitter.com/sirmitchell)
+- [Mitch Putnam](https://twitter.com/Postersandtoys)
+- [Trish Reda](https://twitter.com/nft_ish)
 
+### Press:
 - [NY Times](https://www.nytimes.com/2020/09/16/arts/design/instagram-art-accounts.html)
 - [CBC](https://www.cbc.ca/radio/asithappens/as-it-happens-the-friday-edition-1.5828644/why-this-n-y-artist-is-spending-the-pandemic-turning-his-meals-into-face-masks-1.5829046)
 - [BBC Northwest](https://twitter.com/awaygray/status/1444397835881963522?s=20)
@@ -35,7 +46,7 @@ Press:
 - Secondary sales of Delectables by Foodmasku are available on [OpenSea](https://opensea.io/collection/delectables-by-foodmasku).
 
 ```markdown
-Roadmap
+Roadmap for Season 1
 
 # 33%
 - A very friendsgiving dinner
